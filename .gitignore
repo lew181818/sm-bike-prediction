@@ -16,3 +16,6 @@ user-default-efs/*
 .sagemaker_sql_editor_api_cache/
 .ssh/
 .virtual_documents/
+*.json
+*tar.gz
+
